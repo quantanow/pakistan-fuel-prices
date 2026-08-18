@@ -1,0 +1,27 @@
+{
+  "title": "Pakistan Fuel Prices (OGRA)",
+  "subtitle": "Official OGRA-notified retail fuel prices for Pakistan, updated daily",
+  "id": "YOUR_KAGGLE_USERNAME/pakistan-fuel-prices-ogra",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "pakistan",
+    "energy",
+    "fuel-prices",
+    "petrol",
+    "diesel",
+    "lpg",
+    "ogra",
+    "commodity-prices",
+    "time-series"
+  ],
+  "resources": [
+    {
+      "path": "prices.csv",
+      "description": "One row per product per OGRA notification: effective date, product, price in PKR, unit, and OGRA's own document id."
+    }
+  ]
+}
