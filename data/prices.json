@@ -1,0 +1,2426 @@
+[
+  {
+    "effectiveDate": "2015-07-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 64.94,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "994"
+  },
+  {
+    "effectiveDate": "2015-08-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 60.11,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "993"
+  },
+  {
+    "effectiveDate": "2015-09-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 57.11,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "992"
+  },
+  {
+    "effectiveDate": "2015-10-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 57.11,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "991"
+  },
+  {
+    "effectiveDate": "2015-11-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 57.11,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "990"
+  },
+  {
+    "effectiveDate": "2015-12-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 56.32,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "989"
+  },
+  {
+    "effectiveDate": "2016-04-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 43.25,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "985"
+  },
+  {
+    "effectiveDate": "2016-05-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 43.25,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "984"
+  },
+  {
+    "effectiveDate": "2016-06-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 43.25,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "983"
+  },
+  {
+    "effectiveDate": "2016-07-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 43.25,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "982"
+  },
+  {
+    "effectiveDate": "2016-08-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 43.25,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "980"
+  },
+  {
+    "effectiveDate": "2016-09-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 43.25,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "981"
+  },
+  {
+    "effectiveDate": "2016-10-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 43.25,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "979"
+  },
+  {
+    "effectiveDate": "2016-11-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 43.25,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "978"
+  },
+  {
+    "effectiveDate": "2016-12-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 43.25,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "977"
+  },
+  {
+    "effectiveDate": "2017-01-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 43.25,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "976"
+  },
+  {
+    "effectiveDate": "2017-02-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 43.25,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "973"
+  },
+  {
+    "effectiveDate": "2017-03-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 44.0,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "972"
+  },
+  {
+    "effectiveDate": "2017-04-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 44.0,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "339"
+  },
+  {
+    "effectiveDate": "2017-05-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 44.0,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "338"
+  },
+  {
+    "effectiveDate": "2017-06-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 44.0,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "337"
+  },
+  {
+    "effectiveDate": "2017-07-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 44.0,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "2734"
+  },
+  {
+    "effectiveDate": "2017-08-06",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 44.0,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "2745"
+  },
+  {
+    "effectiveDate": "2017-09-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 44.0,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "2852"
+  },
+  {
+    "effectiveDate": "2017-10-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 48.0,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "2929"
+  },
+  {
+    "effectiveDate": "2017-12-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 57.58,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "3038"
+  },
+  {
+    "effectiveDate": "2018-01-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 64.32,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "3185"
+  },
+  {
+    "effectiveDate": "2018-02-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 70.18,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "3243"
+  },
+  {
+    "effectiveDate": "2018-03-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 76.46,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "3297"
+  },
+  {
+    "effectiveDate": "2018-04-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 76.46,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "3333"
+  },
+  {
+    "effectiveDate": "2018-06-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 79.88,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "3583"
+  },
+  {
+    "effectiveDate": "2018-06-12",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 84.34,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "3603"
+  },
+  {
+    "effectiveDate": "2018-07-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 87.7,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "3647"
+  },
+  {
+    "effectiveDate": "2018-08-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 83.96,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "3693"
+  },
+  {
+    "effectiveDate": "2018-09-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 83.5,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "3717"
+  },
+  {
+    "effectiveDate": "2018-10-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 83.5,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "3752"
+  },
+  {
+    "effectiveDate": "2018-11-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 86.5,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "3792"
+  },
+  {
+    "effectiveDate": "2018-12-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 83.5,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "3814"
+  },
+  {
+    "effectiveDate": "2019-02-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 82.31,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "3927"
+  },
+  {
+    "effectiveDate": "2019-03-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 86.31,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "3989"
+  },
+  {
+    "effectiveDate": "2019-04-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 89.31,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "4035"
+  },
+  {
+    "effectiveDate": "2019-05-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 89.31,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "4102"
+  },
+  {
+    "effectiveDate": "2019-05-05",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 96.77,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "4107"
+  },
+  {
+    "effectiveDate": "2019-06-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 98.46,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "4198"
+  },
+  {
+    "effectiveDate": "2019-07-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 98.46,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "4241"
+  },
+  {
+    "effectiveDate": "2019-08-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 103.84,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "4268"
+  },
+  {
+    "effectiveDate": "2019-09-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 99.57,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "4311"
+  },
+  {
+    "effectiveDate": "2019-10-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 99.57,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "4361"
+  },
+  {
+    "effectiveDate": "2019-11-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 97.18,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "4406"
+  },
+  {
+    "effectiveDate": "2019-12-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 96.35,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "4445"
+  },
+  {
+    "effectiveDate": "2020-02-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 99.45,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "4536"
+  },
+  {
+    "effectiveDate": "2020-03-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 92.45,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "4583"
+  },
+  {
+    "effectiveDate": "2020-03-25",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 77.45,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "4645"
+  },
+  {
+    "effectiveDate": "2020-05-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 47.44,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "4688"
+  },
+  {
+    "effectiveDate": "2020-06-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 35.56,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "4745"
+  },
+  {
+    "effectiveDate": "2020-06-26",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 59.32,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "4785"
+  },
+  {
+    "effectiveDate": "2020-08-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 65.29,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "4867"
+  },
+  {
+    "effectiveDate": "2020-09-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 65.29,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "4901"
+  },
+  {
+    "effectiveDate": "2020-10-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 65.29,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "4969"
+  },
+  {
+    "effectiveDate": "2020-10-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 65.29,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "5015"
+  },
+  {
+    "effectiveDate": "2020-11-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 65.29,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "5065"
+  },
+  {
+    "effectiveDate": "2020-12-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 70.29,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "5232"
+  },
+  {
+    "effectiveDate": "2021-01-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 73.65,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "5269"
+  },
+  {
+    "effectiveDate": "2021-01-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 76.65,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "5335"
+  },
+  {
+    "effectiveDate": "2021-03-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 80.19,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "5506"
+  },
+  {
+    "effectiveDate": "2021-04-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 82.06,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "5638"
+  },
+  {
+    "effectiveDate": "2021-04-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 80.0,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "5796"
+  },
+  {
+    "effectiveDate": "2021-05-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 80.0,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "5918"
+  },
+  {
+    "effectiveDate": "2021-05-18",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 80.0,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "5958"
+  },
+  {
+    "effectiveDate": "2021-06-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 80.0,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "6017"
+  },
+  {
+    "effectiveDate": "2021-06-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 81.89,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "6074"
+  },
+  {
+    "effectiveDate": "2021-07-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 85.75,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "6125"
+  },
+  {
+    "effectiveDate": "2021-07-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 87.14,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "6236"
+  },
+  {
+    "effectiveDate": "2021-08-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 87.49,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "6282"
+  },
+  {
+    "effectiveDate": "2021-08-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 88.3,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "6347"
+  },
+  {
+    "effectiveDate": "2021-09-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 86.8,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "6390"
+  },
+  {
+    "effectiveDate": "2021-09-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 92.26,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "6471"
+  },
+  {
+    "effectiveDate": "2021-10-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 99.31,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "6532"
+  },
+  {
+    "effectiveDate": "2021-10-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 110.26,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "6580"
+  },
+  {
+    "effectiveDate": "2021-11-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 110.26,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "6690"
+  },
+  {
+    "effectiveDate": "2021-11-05",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 116.53,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "6730"
+  },
+  {
+    "effectiveDate": "2021-11-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 116.53,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "5126"
+  },
+  {
+    "effectiveDate": "2021-12-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 116.53,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "6820"
+  },
+  {
+    "effectiveDate": "2021-12-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 109.53,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "6875"
+  },
+  {
+    "effectiveDate": "2022-01-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 113.48,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "7010"
+  },
+  {
+    "effectiveDate": "2022-01-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 116.48,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "7123"
+  },
+  {
+    "effectiveDate": "2022-02-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 126.56,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "7295"
+  },
+  {
+    "effectiveDate": "2022-03-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 233.79,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "7367"
+  },
+  {
+    "effectiveDate": "2022-03-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 125.56,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "7368"
+  },
+  {
+    "effectiveDate": "2022-03-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 125.56,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "7432"
+  },
+  {
+    "effectiveDate": "2022-04-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 247.13,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "7477"
+  },
+  {
+    "effectiveDate": "2022-04-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 125.56,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "7472"
+  },
+  {
+    "effectiveDate": "2022-04-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 125.56,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "7504"
+  },
+  {
+    "effectiveDate": "2022-05-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 231.85,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "7561"
+  },
+  {
+    "effectiveDate": "2022-05-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 125.56,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "7557"
+  },
+  {
+    "effectiveDate": "2022-05-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 125.56,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "7664"
+  },
+  {
+    "effectiveDate": "2022-05-27",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 155.56,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "7693"
+  },
+  {
+    "effectiveDate": "2022-06-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 218.76,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "7720"
+  },
+  {
+    "effectiveDate": "2022-06-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 155.56,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "7721"
+  },
+  {
+    "effectiveDate": "2022-06-03",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 181.94,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "7749"
+  },
+  {
+    "effectiveDate": "2022-06-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 211.43,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "7789"
+  },
+  {
+    "effectiveDate": "2022-07-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 220.42,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "7850"
+  },
+  {
+    "effectiveDate": "2022-07-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 230.26,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "7833"
+  },
+  {
+    "effectiveDate": "2022-07-15",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 196.45,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "7880"
+  },
+  {
+    "effectiveDate": "2022-08-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 217.92,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "7950"
+  },
+  {
+    "effectiveDate": "2022-08-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 201.07,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "7935"
+  },
+  {
+    "effectiveDate": "2022-08-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 199.4,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "8020"
+  },
+  {
+    "effectiveDate": "2022-09-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 211.55,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "8078"
+  },
+  {
+    "effectiveDate": "2022-09-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 210.32,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "8079"
+  },
+  {
+    "effectiveDate": "2022-10-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 201.21,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "8165"
+  },
+  {
+    "effectiveDate": "2022-10-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 191.83,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "8166"
+  },
+  {
+    "effectiveDate": "2022-11-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 204.17,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "8300"
+  },
+  {
+    "effectiveDate": "2022-11-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 191.83,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "8296"
+  },
+  {
+    "effectiveDate": "2022-11-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 191.83,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "8362"
+  },
+  {
+    "effectiveDate": "2022-12-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 215.96,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "8423"
+  },
+  {
+    "effectiveDate": "2022-12-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 181.83,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "8418"
+  },
+  {
+    "effectiveDate": "2022-12-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 171.83,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "8537"
+  },
+  {
+    "effectiveDate": "2023-01-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 204.36,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "8591"
+  },
+  {
+    "effectiveDate": "2023-01-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 171.83,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "8592"
+  },
+  {
+    "effectiveDate": "2023-02-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 263.95,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "8722"
+  },
+  {
+    "effectiveDate": "2023-02-15",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 266.21,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "8831"
+  },
+  {
+    "effectiveDate": "2023-02-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 202.73,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "8833"
+  },
+  {
+    "effectiveDate": "2023-03-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 277.77,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "8884"
+  },
+  {
+    "effectiveDate": "2023-03-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 187.73,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "8991"
+  },
+  {
+    "effectiveDate": "2023-03-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 190.29,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "8641"
+  },
+  {
+    "effectiveDate": "2023-04-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 229.0,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "9020"
+  },
+  {
+    "effectiveDate": "2023-04-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 180.29,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "9021"
+  },
+  {
+    "effectiveDate": "2023-04-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 186.07,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "9070"
+  },
+  {
+    "effectiveDate": "2023-05-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 233.89,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "9109"
+  },
+  {
+    "effectiveDate": "2023-05-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 176.07,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "9105"
+  },
+  {
+    "effectiveDate": "2023-05-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 164.07,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "9150"
+  },
+  {
+    "effectiveDate": "2023-06-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 196.75,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "9259"
+  },
+  {
+    "effectiveDate": "2023-06-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 164.07,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "9255"
+  },
+  {
+    "effectiveDate": "2023-06-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 164.07,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "9337"
+  },
+  {
+    "effectiveDate": "2023-07-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 171.05,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "9386"
+  },
+  {
+    "effectiveDate": "2023-07-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 172.39,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "9418"
+  },
+  {
+    "effectiveDate": "2023-08-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 201.16,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "9456"
+  },
+  {
+    "effectiveDate": "2023-08-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 192.38,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "9458"
+  },
+  {
+    "effectiveDate": "2023-08-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 217.15,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "9496"
+  },
+  {
+    "effectiveDate": "2023-09-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 240.13,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "9601"
+  },
+  {
+    "effectiveDate": "2023-09-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 233.52,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "9582"
+  },
+  {
+    "effectiveDate": "2023-09-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 244.81,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "9614"
+  },
+  {
+    "effectiveDate": "2023-10-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 237.28,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "9673"
+  },
+  {
+    "effectiveDate": "2023-10-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 214.85,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "9730"
+  },
+  {
+    "effectiveDate": "2023-11-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 251.03,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "9772"
+  },
+  {
+    "effectiveDate": "2023-11-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 211.03,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "9768"
+  },
+  {
+    "effectiveDate": "2023-11-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 204.98,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "9806"
+  },
+  {
+    "effectiveDate": "2023-12-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 254.86,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "9840"
+  },
+  {
+    "effectiveDate": "2023-12-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 191.02,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "9887"
+  },
+  {
+    "effectiveDate": "2024-01-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 256.43,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "9931"
+  },
+  {
+    "effectiveDate": "2024-01-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 188.83,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "9927"
+  },
+  {
+    "effectiveDate": "2024-01-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 186.86,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "10003"
+  },
+  {
+    "effectiveDate": "2024-02-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 257.6,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "10085"
+  },
+  {
+    "effectiveDate": "2024-02-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 186.62,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "10087"
+  },
+  {
+    "effectiveDate": "2024-03-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 256.79,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "10270"
+  },
+  {
+    "effectiveDate": "2024-03-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 188.66,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "10317"
+  },
+  {
+    "effectiveDate": "2024-04-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 209.04,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "10391"
+  },
+  {
+    "effectiveDate": "2024-04-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 186.39,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "10394"
+  },
+  {
+    "effectiveDate": "2024-04-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 193.08,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "10440"
+  },
+  {
+    "effectiveDate": "2024-05-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 238.46,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "10492"
+  },
+  {
+    "effectiveDate": "2024-05-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 183.34,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "10494"
+  },
+  {
+    "effectiveDate": "2024-05-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 173.48,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "10557"
+  },
+  {
+    "effectiveDate": "2024-06-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 234.6,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "10597"
+  },
+  {
+    "effectiveDate": "2024-06-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 171.61,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "10599"
+  },
+  {
+    "effectiveDate": "2024-06-15",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 171.81,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "10641"
+  },
+  {
+    "effectiveDate": "2024-07-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 234.72,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "10705"
+  },
+  {
+    "effectiveDate": "2024-07-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 181.86,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "10686"
+  },
+  {
+    "effectiveDate": "2024-07-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 183.71,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "10734"
+  },
+  {
+    "effectiveDate": "2024-08-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 237.0,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "10901"
+  },
+  {
+    "effectiveDate": "2024-08-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 177.39,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "10914"
+  },
+  {
+    "effectiveDate": "2024-09-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 243.99,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "11098"
+  },
+  {
+    "effectiveDate": "2024-09-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 158.47,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "11159"
+  },
+  {
+    "effectiveDate": "2024-10-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 251.3,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "11190"
+  },
+  {
+    "effectiveDate": "2024-10-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 154.9,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "11192"
+  },
+  {
+    "effectiveDate": "2024-10-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 163.02,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "11231"
+  },
+  {
+    "effectiveDate": "2024-11-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 254.19,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "11281"
+  },
+  {
+    "effectiveDate": "2024-11-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 161.54,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "11282"
+  },
+  {
+    "effectiveDate": "2024-11-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 165.6,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "11354"
+  },
+  {
+    "effectiveDate": "2024-12-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 254.3,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "11398"
+  },
+  {
+    "effectiveDate": "2024-12-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 164.98,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "11400"
+  },
+  {
+    "effectiveDate": "2025-01-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 250.28,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "11566"
+  },
+  {
+    "effectiveDate": "2025-01-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 169.25,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "11607"
+  },
+  {
+    "effectiveDate": "2025-02-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 212.67,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "11637"
+  },
+  {
+    "effectiveDate": "2025-02-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 174.85,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "11639"
+  },
+  {
+    "effectiveDate": "2025-02-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 171.65,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "11746"
+  },
+  {
+    "effectiveDate": "2025-03-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 247.82,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "11797"
+  },
+  {
+    "effectiveDate": "2025-03-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 168.12,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "11799"
+  },
+  {
+    "effectiveDate": "2025-03-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 168.12,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "11834"
+  },
+  {
+    "effectiveDate": "2025-03-29",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 169.38,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "11895"
+  },
+  {
+    "effectiveDate": "2025-04-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 248.37,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "11904"
+  },
+  {
+    "effectiveDate": "2025-04-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 169.38,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "12018"
+  },
+  {
+    "effectiveDate": "2025-05-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 245.16,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "12046"
+  },
+  {
+    "effectiveDate": "2025-05-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 169.69,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "12049"
+  },
+  {
+    "effectiveDate": "2025-05-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 164.65,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "12080"
+  },
+  {
+    "effectiveDate": "2025-06-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 240.53,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "12153"
+  },
+  {
+    "effectiveDate": "2025-06-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 169.2,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "12194"
+  },
+  {
+    "effectiveDate": "2025-07-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 233.0,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "12240"
+  },
+  {
+    "effectiveDate": "2025-07-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 181.33,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "12283"
+  },
+  {
+    "effectiveDate": "2025-08-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 215.37,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "12326"
+  },
+  {
+    "effectiveDate": "2025-08-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 185.46,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "12328"
+  },
+  {
+    "effectiveDate": "2025-08-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 178.27,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "12372"
+  },
+  {
+    "effectiveDate": "2025-09-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 214.19,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "12585"
+  },
+  {
+    "effectiveDate": "2025-09-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 179.96,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "12424"
+  },
+  {
+    "effectiveDate": "2025-10-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 207.49,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "12609"
+  },
+  {
+    "effectiveDate": "2025-10-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 184.97,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "12612"
+  },
+  {
+    "effectiveDate": "2025-10-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 181.71,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "12680"
+  },
+  {
+    "effectiveDate": "2025-11-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 201.6,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "12764"
+  },
+  {
+    "effectiveDate": "2025-11-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 194.34,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "12827"
+  },
+  {
+    "effectiveDate": "2025-12-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 208.99,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "12986"
+  },
+  {
+    "effectiveDate": "2025-12-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 192.86,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "12958"
+  },
+  {
+    "effectiveDate": "2025-12-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 180.54,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "13018"
+  },
+  {
+    "effectiveDate": "2026-01-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 219.68,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "13078"
+  },
+  {
+    "effectiveDate": "2026-01-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 170.88,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "13079"
+  },
+  {
+    "effectiveDate": "2026-01-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 170.88,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "13135"
+  },
+  {
+    "effectiveDate": "2026-02-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 175.8,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "13194"
+  },
+  {
+    "effectiveDate": "2026-02-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 180.53,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "13251"
+  },
+  {
+    "effectiveDate": "2026-03-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 225.84,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "13400"
+  },
+  {
+    "effectiveDate": "2026-03-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 188.73,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "13396"
+  },
+  {
+    "effectiveDate": "2026-03-14",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 358.01,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "13510"
+  },
+  {
+    "effectiveDate": "2026-03-21",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 428.74,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "13558"
+  },
+  {
+    "effectiveDate": "2026-03-28",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 433.4,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "13605"
+  },
+  {
+    "effectiveDate": "2026-04-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 304.12,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "13656"
+  },
+  {
+    "effectiveDate": "2026-04-03",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 467.48,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "13680"
+  },
+  {
+    "effectiveDate": "2026-04-11",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 450.15,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "13771"
+  },
+  {
+    "effectiveDate": "2026-04-18",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 428.81,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "13836"
+  },
+  {
+    "effectiveDate": "2026-04-25",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 365.21,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "13893"
+  },
+  {
+    "effectiveDate": "2026-05-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 303.8,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "13971"
+  },
+  {
+    "effectiveDate": "2026-05-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 360.76,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "13937"
+  },
+  {
+    "effectiveDate": "2026-05-09",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 318.96,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "13993"
+  },
+  {
+    "effectiveDate": "2026-05-16",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 311.73,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14042"
+  },
+  {
+    "effectiveDate": "2026-05-23",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 313.44,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14093"
+  },
+  {
+    "effectiveDate": "2026-05-30",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 272.0,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14135"
+  },
+  {
+    "effectiveDate": "2026-06-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 308.76,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "14157"
+  },
+  {
+    "effectiveDate": "2026-06-13",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 282.19,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14266"
+  },
+  {
+    "effectiveDate": "2026-06-20",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 233.9,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14315"
+  },
+  {
+    "effectiveDate": "2026-06-27",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 227.05,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14359"
+  },
+  {
+    "effectiveDate": "2026-07-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 241.43,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "14400"
+  },
+  {
+    "effectiveDate": "2026-07-04",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 231.14,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14410"
+  },
+  {
+    "effectiveDate": "2026-07-11",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 242.33,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14454"
+  },
+  {
+    "effectiveDate": "2026-07-18",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 276.66,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14508"
+  },
+  {
+    "effectiveDate": "2026-07-21",
+    "product": "High Speed Diesel (HSD)",
+    "pricePkr": 360.06,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14672"
+  },
+  {
+    "effectiveDate": "2026-07-21",
+    "product": "Motor Spirit (Petrol)",
+    "pricePkr": 315.8,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14672"
+  },
+  {
+    "effectiveDate": "2026-07-21",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 282.59,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14559"
+  },
+  {
+    "effectiveDate": "2026-07-22",
+    "product": "High Speed Diesel (HSD)",
+    "pricePkr": 367.21,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14673"
+  },
+  {
+    "effectiveDate": "2026-07-22",
+    "product": "Motor Spirit (Petrol)",
+    "pricePkr": 320.73,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14673"
+  },
+  {
+    "effectiveDate": "2026-07-22",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 289.37,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14605"
+  },
+  {
+    "effectiveDate": "2026-07-23",
+    "product": "High Speed Diesel (HSD)",
+    "pricePkr": 375.04,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14745"
+  },
+  {
+    "effectiveDate": "2026-07-23",
+    "product": "Motor Spirit (Petrol)",
+    "pricePkr": 327.12,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14745"
+  },
+  {
+    "effectiveDate": "2026-07-23",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 297.17,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14655"
+  },
+  {
+    "effectiveDate": "2026-07-24",
+    "product": "High Speed Diesel (HSD)",
+    "pricePkr": 378.66,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14712"
+  },
+  {
+    "effectiveDate": "2026-07-24",
+    "product": "Motor Spirit (Petrol)",
+    "pricePkr": 331.52,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14712"
+  },
+  {
+    "effectiveDate": "2026-07-24",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 298.15,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14714"
+  },
+  {
+    "effectiveDate": "2026-07-25",
+    "product": "High Speed Diesel (HSD)",
+    "pricePkr": 383.46,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14757"
+  },
+  {
+    "effectiveDate": "2026-07-25",
+    "product": "Motor Spirit (Petrol)",
+    "pricePkr": 335.18,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14757"
+  },
+  {
+    "effectiveDate": "2026-07-25",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 301.14,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14759"
+  },
+  {
+    "effectiveDate": "2026-07-26",
+    "product": "High Speed Diesel (HSD)",
+    "pricePkr": 383.46,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14760"
+  },
+  {
+    "effectiveDate": "2026-07-26",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 241.43,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "14762"
+  },
+  {
+    "effectiveDate": "2026-07-26",
+    "product": "Motor Spirit (Petrol)",
+    "pricePkr": 335.18,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14760"
+  },
+  {
+    "effectiveDate": "2026-07-26",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 301.14,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14761"
+  },
+  {
+    "effectiveDate": "2026-07-28",
+    "product": "High Speed Diesel (HSD)",
+    "pricePkr": 386.83,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14799"
+  },
+  {
+    "effectiveDate": "2026-07-28",
+    "product": "Motor Spirit (Petrol)",
+    "pricePkr": 334.18,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14799"
+  },
+  {
+    "effectiveDate": "2026-07-29",
+    "product": "High Speed Diesel (HSD)",
+    "pricePkr": 388.38,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14842"
+  },
+  {
+    "effectiveDate": "2026-07-29",
+    "product": "Motor Spirit (Petrol)",
+    "pricePkr": 335.81,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14842"
+  },
+  {
+    "effectiveDate": "2026-07-30",
+    "product": "High Speed Diesel (HSD)",
+    "pricePkr": 390.62,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14877"
+  },
+  {
+    "effectiveDate": "2026-07-30",
+    "product": "Motor Spirit (Petrol)",
+    "pricePkr": 335.06,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14877"
+  },
+  {
+    "effectiveDate": "2026-07-30",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 304.67,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14876"
+  },
+  {
+    "effectiveDate": "2026-07-31",
+    "product": "High Speed Diesel (HSD)",
+    "pricePkr": 393.04,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14979"
+  },
+  {
+    "effectiveDate": "2026-07-31",
+    "product": "Motor Spirit (Petrol)",
+    "pricePkr": 336.15,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14979"
+  },
+  {
+    "effectiveDate": "2026-07-31",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 306.44,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14915"
+  },
+  {
+    "effectiveDate": "2026-08-01",
+    "product": "High Speed Diesel (HSD)",
+    "pricePkr": 392.38,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14981"
+  },
+  {
+    "effectiveDate": "2026-08-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 254.32,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "14971"
+  },
+  {
+    "effectiveDate": "2026-08-01",
+    "product": "Motor Spirit (Petrol)",
+    "pricePkr": 336.03,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14981"
+  },
+  {
+    "effectiveDate": "2026-08-01",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 305.22,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "14954"
+  },
+  {
+    "effectiveDate": "2026-08-04",
+    "product": "High Speed Diesel (HSD)",
+    "pricePkr": 389.93,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "15016"
+  },
+  {
+    "effectiveDate": "2026-08-04",
+    "product": "Motor Spirit (Petrol)",
+    "pricePkr": 331.95,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "15016"
+  },
+  {
+    "effectiveDate": "2026-08-04",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 301.64,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "15014"
+  },
+  {
+    "effectiveDate": "2026-08-05",
+    "product": "High Speed Diesel (HSD)",
+    "pricePkr": 385.86,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "15058"
+  },
+  {
+    "effectiveDate": "2026-08-05",
+    "product": "Motor Spirit (Petrol)",
+    "pricePkr": 328.56,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "15058"
+  },
+  {
+    "effectiveDate": "2026-08-05",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 297.3,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "15055"
+  },
+  {
+    "effectiveDate": "2026-08-06",
+    "product": "High Speed Diesel (HSD)",
+    "pricePkr": 383.86,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "15099"
+  },
+  {
+    "effectiveDate": "2026-08-06",
+    "product": "Motor Spirit (Petrol)",
+    "pricePkr": 333.01,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "15099"
+  },
+  {
+    "effectiveDate": "2026-08-06",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 293.81,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "15097"
+  },
+  {
+    "effectiveDate": "2026-08-07",
+    "product": "High Speed Diesel (HSD)",
+    "pricePkr": 382.36,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "15126"
+  },
+  {
+    "effectiveDate": "2026-08-07",
+    "product": "Motor Spirit (Petrol)",
+    "pricePkr": 329.82,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "15126"
+  },
+  {
+    "effectiveDate": "2026-08-07",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 291.45,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "15128"
+  },
+  {
+    "effectiveDate": "2026-08-08",
+    "product": "High Speed Diesel (HSD)",
+    "pricePkr": 380.86,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "15186"
+  },
+  {
+    "effectiveDate": "2026-08-08",
+    "product": "Motor Spirit (Petrol)",
+    "pricePkr": 327.62,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "15186"
+  },
+  {
+    "effectiveDate": "2026-08-08",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 289.95,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "15184"
+  },
+  {
+    "effectiveDate": "2026-08-12",
+    "product": "High Speed Diesel (HSD)",
+    "pricePkr": 382.25,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "15243"
+  },
+  {
+    "effectiveDate": "2026-08-12",
+    "product": "Motor Spirit (Petrol)",
+    "pricePkr": 325.92,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "15243"
+  },
+  {
+    "effectiveDate": "2026-08-12",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 289.68,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "15240"
+  },
+  {
+    "effectiveDate": "2026-08-13",
+    "product": "High Speed Diesel (HSD)",
+    "pricePkr": 382.79,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "15273"
+  },
+  {
+    "effectiveDate": "2026-08-13",
+    "product": "Motor Spirit (Petrol)",
+    "pricePkr": 324.98,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "15273"
+  },
+  {
+    "effectiveDate": "2026-08-13",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 289.27,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "15275"
+  },
+  {
+    "effectiveDate": "2026-08-14",
+    "product": "High Speed Diesel (HSD)",
+    "pricePkr": 383.95,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "15315"
+  },
+  {
+    "effectiveDate": "2026-08-14",
+    "product": "Motor Spirit (Petrol)",
+    "pricePkr": 325.43,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "15315"
+  },
+  {
+    "effectiveDate": "2026-08-14",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 289.75,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "15312"
+  },
+  {
+    "effectiveDate": "2026-08-18",
+    "product": "High Speed Diesel (HSD)",
+    "pricePkr": 390.42,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "15361"
+  },
+  {
+    "effectiveDate": "2026-08-18",
+    "product": "Motor Spirit (Petrol)",
+    "pricePkr": 331.2,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "15361"
+  },
+  {
+    "effectiveDate": "2026-08-18",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 296.63,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "15340"
+  },
+  {
+    "effectiveDate": "2026-08-19",
+    "product": "High Speed Diesel (HSD)",
+    "pricePkr": 395.69,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "15402"
+  },
+  {
+    "effectiveDate": "2026-08-19",
+    "product": "Motor Spirit (Petrol)",
+    "pricePkr": 334.54,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "15402"
+  },
+  {
+    "effectiveDate": "2026-08-19",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 300.85,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "15400"
+  }
+]
