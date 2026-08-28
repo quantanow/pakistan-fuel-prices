@@ -1,30 +1,6 @@
 {
   "dailyQuotes": [
     {
-      "date": "2026-08-12",
-      "petrolPlattsUsdBbl": 104.5,
-      "dieselPlattsUsdBbl": 152.69,
-      "usdPkr": 277.81,
-      "crudeUsdBbl": 88.74,
-      "brentUsdBbl": 88.98
-    },
-    {
-      "date": "2026-08-13",
-      "petrolPlattsUsdBbl": 104.08,
-      "dieselPlattsUsdBbl": 152.42,
-      "usdPkr": 277.8,
-      "crudeUsdBbl": 88.22,
-      "brentUsdBbl": 87.07
-    },
-    {
-      "date": "2026-08-14",
-      "petrolPlattsUsdBbl": 104.8,
-      "dieselPlattsUsdBbl": 155.01,
-      "usdPkr": 277.8,
-      "crudeUsdBbl": 88.5,
-      "brentUsdBbl": 88.52
-    },
-    {
       "date": "2026-08-17",
       "petrolPlattsUsdBbl": 105.12,
       "dieselPlattsUsdBbl": 153.46,
@@ -79,26 +55,42 @@
       "usdPkr": 277.66,
       "crudeUsdBbl": 93.0,
       "brentUsdBbl": 88.58
+    },
+    {
+      "date": "2026-08-26",
+      "petrolPlattsUsdBbl": 101.66,
+      "dieselPlattsUsdBbl": 138.52,
+      "usdPkr": 277.66,
+      "crudeUsdBbl": 87.1,
+      "brentUsdBbl": 87.84
+    },
+    {
+      "date": "2026-08-27",
+      "petrolPlattsUsdBbl": 104.78,
+      "dieselPlattsUsdBbl": 141.98,
+      "usdPkr": 277.66,
+      "crudeUsdBbl": 90.4,
+      "brentUsdBbl": 89.7
+    },
+    {
+      "date": "2026-08-28",
+      "petrolPlattsUsdBbl": 106.24,
+      "dieselPlattsUsdBbl": 144.75,
+      "usdPkr": 277.65,
+      "crudeUsdBbl": 93.2,
+      "brentUsdBbl": 88.01
     }
   ],
   "rollingAverage": {
-    "effectiveDate": "2026-08-26",
-    "petrolPlattsUsdBbl": 106.73,
-    "dieselPlattsUsdBbl": 155.18,
-    "usdPkr": 277.72,
-    "crudeUsdBbl": 93.72
+    "effectiveDate": "2026-08-29",
+    "petrolPlattsUsdBbl": 105.44429,
+    "dieselPlattsUsdBbl": 148.58286,
+    "usdPkr": 277.68039,
+    "crudeUsdBbl": 93.57286
   },
-  "downloadId": "15657",
+  "downloadId": "15748",
   "sourceUrl": "https://www.ogra.org.pk/platts-data",
   "recentBrentUsdBbl": [
-    {
-      "date": "2026-08-06",
-      "brentUsdBbl": 82.49
-    },
-    {
-      "date": "2026-08-07",
-      "brentUsdBbl": 83.55
-    },
     {
       "date": "2026-08-10",
       "brentUsdBbl": 87.72
@@ -108,8 +100,16 @@
       "brentUsdBbl": 88.91
     },
     {
-      "date": "2026-08-26",
-      "brentUsdBbl": 86.51
+      "date": "2026-08-12",
+      "brentUsdBbl": 88.98
+    },
+    {
+      "date": "2026-08-13",
+      "brentUsdBbl": 87.07
+    },
+    {
+      "date": "2026-08-14",
+      "brentUsdBbl": 88.52
     }
   ]
 }
