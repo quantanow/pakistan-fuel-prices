@@ -3,7 +3,7 @@
 Both platforms need the maintainer's own account, so these steps are manual.
 The cards themselves are generated from the data by
 `scripts/dataset_cards.py` — re-run the mirror build to refresh them rather
-than editing them by hand, or the coverage numbers will drift from the 319
+than editing them by hand, or the coverage numbers will drift from the 322
 records actually shipped.
 
 ## HuggingFace
