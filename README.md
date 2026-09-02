@@ -4,8 +4,8 @@ Official petrol, diesel, kerosene and LPG prices for Pakistan, parsed from the
 price notifications published by the **Oil and Gas Regulatory Authority
 (OGRA)** and updated within minutes of each new notification.
 
-Currently notified: **2026-09-02**.
-324 records in total.
+Currently notified: **2026-09-03**.
+326 records in total.
 
 Maintained by [OilPrices.pk](https://oilprices.pk). This repository is a mirror — the
 live API and documentation are at [https://oilprices.pk/fuel-price-api-pakistan](https://oilprices.pk/fuel-price-api-pakistan).
@@ -20,8 +20,8 @@ notifications only.
 | --- | ---: | --- | --- | --- |
 | Superior Kerosene Oil (SKO) | 210 | 2015-07-01 | 2026-08-29 | PKR/litre |
 | Liquefied Petroleum Gas (LPG) | 54 | 2022-03-01 | 2026-09-01 | PKR/kg |
-| High Speed Diesel (HSD) | 30 | 2026-07-21 | 2026-09-02 | PKR/litre |
-| Motor Spirit (Petrol) | 30 | 2026-07-21 | 2026-09-02 | PKR/litre |
+| High Speed Diesel (HSD) | 31 | 2026-07-21 | 2026-09-03 | PKR/litre |
+| Motor Spirit (Petrol) | 31 | 2026-07-21 | 2026-09-03 | PKR/litre |
 
 ## Files
 
