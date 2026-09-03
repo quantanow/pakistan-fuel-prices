@@ -1,5 +1,5 @@
 {
-  "effectiveDate": "2026-09-03",
+  "effectiveDate": "2026-09-04",
   "products": [
     {
       "product": "Superior Kerosene Oil (SKO)",
@@ -13,12 +13,12 @@
     },
     {
       "product": "High Speed Diesel (HSD)",
-      "pricePkr": 372.03,
+      "pricePkr": 374.31,
       "unit": "litre"
     },
     {
       "product": "Motor Spirit (Petrol)",
-      "pricePkr": 346.16,
+      "pricePkr": 349.0,
       "unit": "litre"
     }
   ]
