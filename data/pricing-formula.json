@@ -1,17 +1,17 @@
 {
   "petrol": {
-    "incidentals": 0.45,
-    "oceanLoss": -0.37,
-    "exchangeRateAdjustment": 0.35,
-    "customsDuty": 20.96,
-    "ifem": 7.45,
+    "incidentals": 0.68,
+    "oceanLoss": 0.0,
+    "exchangeRateAdjustment": 0.0,
+    "customsDuty": 19.47,
+    "ifem": 7.6,
     "omcMargin": 7.87,
     "dealerMargin": 9.98,
     "petroleumLevy": 80.0,
     "climateSupportLevy": 5.0,
     "salesTax": 0.0,
-    "notifiedPrice": 349.0,
-    "premiumUsdBbl": 14.97,
+    "notifiedPrice": 345.87,
+    "premiumUsdBbl": 11.79,
     "basis": "platts"
   },
   "diesel": {
@@ -19,18 +19,18 @@
     "oceanLoss": -0.08,
     "exchangeRateAdjustment": 0.0,
     "customsDuty": 15.68,
-    "ifem": 3.96,
+    "ifem": 4.02,
     "omcMargin": 7.87,
     "dealerMargin": 9.98,
     "petroleumLevy": 80.0,
     "climateSupportLevy": 5.0,
     "salesTax": 0.0,
-    "notifiedPrice": 374.31,
+    "notifiedPrice": 378.05,
     "aramcoPremiumUsdBbl": -1.5,
     "freightAndInsuranceUsdBbl": 8.0,
     "crackUsdBbl": 41.89,
     "basis": "crude-crack"
   },
-  "downloadId": "15939",
+  "downloadId": "15978",
   "sourceUrl": "https://www.ogra.org.pk/price-publications"
 }
