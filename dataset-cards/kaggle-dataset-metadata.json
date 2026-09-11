@@ -8,20 +8,50 @@
     }
   ],
   "keywords": [
-    "pakistan",
     "energy",
-    "fuel-prices",
-    "petrol",
-    "diesel",
-    "lpg",
-    "ogra",
-    "commodity-prices",
-    "time-series"
+    "economics",
+    "finance",
+    "government"
   ],
+  "expectedUpdateFrequency": "daily",
   "resources": [
     {
       "path": "prices.csv",
-      "description": "One row per product per OGRA notification: effective date, product, price in PKR, unit, and OGRA's own document id."
+      "description": "One row per product per OGRA notification: effective date, product, price in PKR, unit, and OGRA's own document id.",
+      "schema": {
+        "fields": [
+          {
+            "name": "effectiveDate",
+            "type": "string",
+            "description": "Date the notified price takes effect, ISO 8601 (YYYY-MM-DD), Pakistan Standard Time. OGRA prices take effect at 00:00 PKT."
+          },
+          {
+            "name": "product",
+            "type": "string",
+            "description": "OGRA's own product name, unabbreviated: Motor Spirit (Petrol), High Speed Diesel (HSD), Superior Kerosene Oil (SKO) or Liquefied Petroleum Gas (LPG)."
+          },
+          {
+            "name": "pricePkr",
+            "type": "number",
+            "description": "Maximum ex-depot retail price in Pakistani rupees, inclusive of petroleum levy, IFEM and margins. See the unit column: this is per litre for all products except LPG."
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "description": "Unit the price is quoted in: litre for petrol, diesel and kerosene; kg for LPG. LPG is notified per kilogram, so treating every row as per-litre misstates it."
+          },
+          {
+            "name": "source",
+            "type": "string",
+            "description": "Origin of the record. Always `ogra`: every row is parsed from an official OGRA price notification PDF, never estimated or interpolated."
+          },
+          {
+            "name": "downloadId",
+            "type": "string",
+            "description": "OGRA's own document id for the notification this row came from, so any price can be traced back to the source PDF at ogra.org.pk."
+          }
+        ]
+      }
     }
   ]
 }

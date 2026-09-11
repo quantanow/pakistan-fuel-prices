@@ -4,13 +4,13 @@
     "oceanLoss": -0.47,
     "exchangeRateAdjustment": 1.42,
     "customsDuty": 21.15,
-    "ifem": 7.6,
+    "ifem": 7.61,
     "omcMargin": 7.87,
     "dealerMargin": 9.98,
     "petroleumLevy": 80.0,
     "climateSupportLevy": 5.0,
     "salesTax": 0.0,
-    "notifiedPrice": 370.8,
+    "notifiedPrice": 375.82,
     "premiumUsdBbl": 16.28,
     "basis": "platts"
   },
@@ -25,12 +25,12 @@
     "petroleumLevy": 80.0,
     "climateSupportLevy": 5.0,
     "salesTax": 0.0,
-    "notifiedPrice": 398.04,
+    "notifiedPrice": 403.32,
     "aramcoPremiumUsdBbl": -1.5,
     "freightAndInsuranceUsdBbl": 8.0,
     "crackUsdBbl": 41.89,
     "basis": "crude-crack"
   },
-  "downloadId": "16204",
+  "downloadId": "16253",
   "sourceUrl": "https://www.ogra.org.pk/price-publications"
 }
