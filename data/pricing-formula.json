@@ -10,7 +10,7 @@
     "petroleumLevy": 80.0,
     "climateSupportLevy": 5.0,
     "salesTax": 0.0,
-    "notifiedPrice": 380.24,
+    "notifiedPrice": 384.34,
     "premiumUsdBbl": 16.28,
     "basis": "platts"
   },
@@ -25,12 +25,12 @@
     "petroleumLevy": 80.0,
     "climateSupportLevy": 5.0,
     "salesTax": 0.0,
-    "notifiedPrice": 409.42,
+    "notifiedPrice": 415.83,
     "aramcoPremiumUsdBbl": -1.5,
     "freightAndInsuranceUsdBbl": 8.0,
     "crackUsdBbl": 41.89,
     "basis": "crude-crack"
   },
-  "downloadId": "16287",
+  "downloadId": "16332",
   "sourceUrl": "https://www.ogra.org.pk/price-publications"
 }
