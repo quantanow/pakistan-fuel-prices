@@ -30,7 +30,7 @@ Regulatory Authority (OGRA)** and parsed from the price notification PDFs the
 regulator publishes. Updated within minutes of each new notification — and OGRA
 has been notifying close to daily.
 
-Currently notified: **2026-09-17**. 348 records in total.
+Currently notified: **2026-09-18**. 350 records in total.
 
 ## Coverage
 
@@ -42,8 +42,8 @@ notifications only.
 | --- | ---: | --- | --- | --- |
 | Superior Kerosene Oil (SKO) | 212 | 2015-07-01 | 2026-09-12 | PKR/litre |
 | Liquefied Petroleum Gas (LPG) | 54 | 2022-03-01 | 2026-09-01 | PKR/kg |
-| High Speed Diesel (HSD) | 41 | 2026-07-21 | 2026-09-17 | PKR/litre |
-| Motor Spirit (Petrol) | 41 | 2026-07-21 | 2026-09-17 | PKR/litre |
+| High Speed Diesel (HSD) | 42 | 2026-07-21 | 2026-09-18 | PKR/litre |
+| Motor Spirit (Petrol) | 42 | 2026-07-21 | 2026-09-18 | PKR/litre |
 
 ## Columns
 
