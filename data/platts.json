@@ -12,72 +12,63 @@
       "petrolPlattsUsdBbl": 124.55,
       "dieselPlattsUsdBbl": 160.34,
       "usdPkr": 277.51,
-      "crudeUsdBbl": 109.71,
-      "brentUsdBbl": 97.92
+      "crudeUsdBbl": 109.71
     },
     {
       "date": "2026-09-09",
       "petrolPlattsUsdBbl": 124.04,
       "dieselPlattsUsdBbl": 159.32,
       "usdPkr": 277.51,
-      "crudeUsdBbl": 122.01,
-      "brentUsdBbl": 101.21
+      "crudeUsdBbl": 122.01
     },
     {
       "date": "2026-09-10",
       "petrolPlattsUsdBbl": 123.95,
       "dieselPlattsUsdBbl": 158.27,
       "usdPkr": 277.5,
-      "crudeUsdBbl": 121.49,
-      "brentUsdBbl": 107.63
+      "crudeUsdBbl": 121.49
     },
     {
       "date": "2026-09-11",
       "petrolPlattsUsdBbl": 135.08,
       "dieselPlattsUsdBbl": 179.69,
       "usdPkr": 277.47,
-      "crudeUsdBbl": 123.66,
-      "brentUsdBbl": 104.61
+      "crudeUsdBbl": 123.66
     },
     {
       "date": "2026-09-14",
       "petrolPlattsUsdBbl": 134.4,
       "dieselPlattsUsdBbl": 182.71,
       "usdPkr": 277.46,
-      "crudeUsdBbl": 126.7,
-      "brentUsdBbl": 105.68
+      "crudeUsdBbl": 126.7
     },
     {
       "date": "2026-09-15",
       "petrolPlattsUsdBbl": 132.38,
       "dieselPlattsUsdBbl": 181.37,
       "usdPkr": 277.45,
-      "crudeUsdBbl": 127.7,
-      "brentUsdBbl": 108.75
+      "crudeUsdBbl": 127.7
     },
     {
       "date": "2026-09-16",
       "petrolPlattsUsdBbl": 135.85,
       "dieselPlattsUsdBbl": 187.11,
       "usdPkr": 277.41,
-      "crudeUsdBbl": 128.0,
-      "brentUsdBbl": 105.83
+      "crudeUsdBbl": 128.0
     },
     {
       "date": "2026-09-17",
       "petrolPlattsUsdBbl": 133.6,
       "dieselPlattsUsdBbl": 177.79,
       "usdPkr": 277.41,
-      "crudeUsdBbl": 123.7,
-      "brentUsdBbl": 104.82
+      "crudeUsdBbl": 123.7
     },
     {
       "date": "2026-09-18",
       "petrolPlattsUsdBbl": 132.73,
       "dieselPlattsUsdBbl": 169.74,
       "usdPkr": 277.4,
-      "crudeUsdBbl": 118.4,
-      "brentUsdBbl": 99.18
+      "crudeUsdBbl": 118.4
     }
   ],
   "rollingAverage": {
@@ -89,30 +80,5 @@
   },
   "downloadId": "16461",
   "sourceUrl": "https://www.ogra.org.pk/platts-data",
-  "recentBrentUsdBbl": [
-    {
-      "date": "2026-08-28",
-      "brentUsdBbl": 89.31
-    },
-    {
-      "date": "2026-08-31",
-      "brentUsdBbl": 90.49
-    },
-    {
-      "date": "2026-09-01",
-      "brentUsdBbl": 94.65
-    },
-    {
-      "date": "2026-09-02",
-      "brentUsdBbl": 95.63
-    },
-    {
-      "date": "2026-09-03",
-      "brentUsdBbl": 95.52
-    },
-    {
-      "date": "2026-09-04",
-      "brentUsdBbl": 96.28
-    }
-  ]
+  "recentBrentUsdBbl": []
 }
