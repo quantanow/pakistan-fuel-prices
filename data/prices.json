@@ -2886,5 +2886,13 @@
     "unit": "litre",
     "source": "ogra",
     "downloadId": "16634"
+  },
+  {
+    "effectiveDate": "2026-09-26",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 321.86,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "16671"
   }
 ]
