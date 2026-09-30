@@ -2942,5 +2942,29 @@
     "unit": "litre",
     "source": "ogra",
     "downloadId": "16756"
+  },
+  {
+    "effectiveDate": "2026-10-01",
+    "product": "High Speed Diesel (HSD)",
+    "pricePkr": 400.35,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "16822"
+  },
+  {
+    "effectiveDate": "2026-10-01",
+    "product": "Liquefied Petroleum Gas (LPG)",
+    "pricePkr": 279.34,
+    "unit": "kg",
+    "source": "ogra",
+    "downloadId": "16809"
+  },
+  {
+    "effectiveDate": "2026-10-01",
+    "product": "Motor Spirit (Petrol)",
+    "pricePkr": 387.4,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "16822"
   }
 ]
