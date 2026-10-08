@@ -1,14 +1,6 @@
 {
   "dailyQuotes": [
     {
-      "date": "2026-09-24",
-      "petrolPlattsUsdBbl": 129.09,
-      "dieselPlattsUsdBbl": 162.57,
-      "usdPkr": 277.31,
-      "crudeUsdBbl": 117.21,
-      "brentUsdBbl": 106.6
-    },
-    {
       "date": "2026-09-25",
       "petrolPlattsUsdBbl": 127.53,
       "dieselPlattsUsdBbl": 158.0,
@@ -78,23 +70,27 @@
       "dieselPlattsUsdBbl": 151.46,
       "usdPkr": 277.16,
       "crudeUsdBbl": 105.93,
-      "brentUsdBbl": 100.95
+      "brentUsdBbl": 100.2
+    },
+    {
+      "date": "2026-10-08",
+      "petrolPlattsUsdBbl": 136.17,
+      "dieselPlattsUsdBbl": 159.98,
+      "usdPkr": 277.16,
+      "crudeUsdBbl": 110.7,
+      "brentUsdBbl": 104.1
     }
   ],
   "rollingAverage": {
-    "effectiveDate": "2026-10-08",
-    "petrolPlattsUsdBbl": 132.18,
-    "dieselPlattsUsdBbl": 154.08143,
-    "usdPkr": 277.22324,
-    "crudeUsdBbl": 107.28643
+    "effectiveDate": "2026-10-09",
+    "petrolPlattsUsdBbl": 133.51571,
+    "dieselPlattsUsdBbl": 155.02571,
+    "usdPkr": 277.20786,
+    "crudeUsdBbl": 107.74357
   },
-  "downloadId": "17025",
+  "downloadId": "17069",
   "sourceUrl": "https://www.ogra.org.pk/platts-data",
   "recentBrentUsdBbl": [
-    {
-      "date": "2026-09-17",
-      "brentUsdBbl": 104.82
-    },
     {
       "date": "2026-09-18",
       "brentUsdBbl": 103.87
@@ -110,6 +106,10 @@
     {
       "date": "2026-09-23",
       "brentUsdBbl": 103.08
+    },
+    {
+      "date": "2026-09-24",
+      "brentUsdBbl": 106.6
     }
   ]
 }
