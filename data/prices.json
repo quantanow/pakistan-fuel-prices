@@ -3126,5 +3126,21 @@
     "unit": "litre",
     "source": "ogra",
     "downloadId": "17192"
+  },
+  {
+    "effectiveDate": "2026-10-15",
+    "product": "High Speed Diesel (HSD)",
+    "pricePkr": 396.65,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "17255"
+  },
+  {
+    "effectiveDate": "2026-10-15",
+    "product": "Motor Spirit (Petrol)",
+    "pricePkr": 393.86,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "17255"
   }
 ]
