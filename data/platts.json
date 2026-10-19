@@ -1,22 +1,6 @@
 {
   "dailyQuotes": [
     {
-      "date": "2026-10-02",
-      "petrolPlattsUsdBbl": 134.81,
-      "dieselPlattsUsdBbl": 154.84,
-      "usdPkr": 277.21,
-      "crudeUsdBbl": 108.8,
-      "brentUsdBbl": 102.25
-    },
-    {
-      "date": "2026-10-05",
-      "petrolPlattsUsdBbl": 132.66,
-      "dieselPlattsUsdBbl": 153.07,
-      "usdPkr": 277.21,
-      "crudeUsdBbl": 109.71,
-      "brentUsdBbl": 100.32
-    },
-    {
       "date": "2026-10-06",
       "petrolPlattsUsdBbl": 132.37,
       "dieselPlattsUsdBbl": 147.93,
@@ -78,27 +62,35 @@
       "dieselPlattsUsdBbl": 151.43,
       "usdPkr": 277.06,
       "crudeUsdBbl": 107.01,
-      "brentUsdBbl": 105.79
+      "brentUsdBbl": 105.92
+    },
+    {
+      "date": "2026-10-16",
+      "petrolPlattsUsdBbl": 113.84,
+      "dieselPlattsUsdBbl": 150.35,
+      "usdPkr": 277.06,
+      "crudeUsdBbl": 106.0,
+      "brentUsdBbl": 109.86
+    },
+    {
+      "date": "2026-10-19",
+      "petrolPlattsUsdBbl": 115.52,
+      "dieselPlattsUsdBbl": 151.51,
+      "usdPkr": 277.05,
+      "crudeUsdBbl": 107.1,
+      "brentUsdBbl": 109.21
     }
   ],
   "rollingAverage": {
-    "effectiveDate": "2026-10-16",
-    "petrolPlattsUsdBbl": 127.24,
-    "dieselPlattsUsdBbl": 153.50714,
-    "usdPkr": 277.12366,
-    "crudeUsdBbl": 108.525
+    "effectiveDate": "2026-10-20",
+    "petrolPlattsUsdBbl": 121.43714,
+    "dieselPlattsUsdBbl": 152.13857,
+    "usdPkr": 277.09321,
+    "crudeUsdBbl": 108.02071
   },
-  "downloadId": "17293",
+  "downloadId": "17376",
   "sourceUrl": "https://www.ogra.org.pk/platts-data",
   "recentBrentUsdBbl": [
-    {
-      "date": "2026-09-25",
-      "brentUsdBbl": 104.32
-    },
-    {
-      "date": "2026-09-28",
-      "brentUsdBbl": 105.28
-    },
     {
       "date": "2026-09-29",
       "brentUsdBbl": 102.59
@@ -110,6 +102,14 @@
     {
       "date": "2026-10-01",
       "brentUsdBbl": 102.31
+    },
+    {
+      "date": "2026-10-02",
+      "brentUsdBbl": 102.25
+    },
+    {
+      "date": "2026-10-05",
+      "brentUsdBbl": 100.32
     }
   ]
 }
