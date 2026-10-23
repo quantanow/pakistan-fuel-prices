@@ -3246,5 +3246,29 @@
     "unit": "litre",
     "source": "ogra",
     "downloadId": "17555"
+  },
+  {
+    "effectiveDate": "2026-10-24",
+    "product": "High Speed Diesel (HSD)",
+    "pricePkr": 393.66,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "17599"
+  },
+  {
+    "effectiveDate": "2026-10-24",
+    "product": "Motor Spirit (Petrol)",
+    "pricePkr": 377.71,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "17599"
+  },
+  {
+    "effectiveDate": "2026-10-24",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 330.96,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "17603"
   }
 ]
