@@ -92,10 +92,6 @@
   "sourceUrl": "https://www.ogra.org.pk/platts-data",
   "recentBrentUsdBbl": [
     {
-      "date": "2026-10-05",
-      "brentUsdBbl": 100.32
-    },
-    {
       "date": "2026-10-06",
       "brentUsdBbl": 100.58
     },
@@ -110,6 +106,10 @@
     {
       "date": "2026-10-09",
       "brentUsdBbl": 104.72
+    },
+    {
+      "date": "2026-10-26",
+      "brentUsdBbl": 109.68
     }
   ]
 }
