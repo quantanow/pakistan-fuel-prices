@@ -78,7 +78,7 @@
       "dieselPlattsUsdBbl": 143.37,
       "usdPkr": 276.8,
       "crudeUsdBbl": 96.3,
-      "brentUsdBbl": 98.12
+      "brentUsdBbl": 98.32
     }
   ],
   "rollingAverage": {
@@ -91,10 +91,6 @@
   "downloadId": "18072",
   "sourceUrl": "https://www.ogra.org.pk/platts-data",
   "recentBrentUsdBbl": [
-    {
-      "date": "2026-10-19",
-      "brentUsdBbl": 109.55
-    },
     {
       "date": "2026-10-20",
       "brentUsdBbl": 108.79
@@ -110,6 +106,10 @@
     {
       "date": "2026-10-23",
       "brentUsdBbl": 116.72
+    },
+    {
+      "date": "2026-11-09",
+      "brentUsdBbl": 96.5
     }
   ]
 }
