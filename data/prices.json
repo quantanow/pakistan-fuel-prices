@@ -3502,5 +3502,21 @@
     "unit": "litre",
     "source": "ogra",
     "downloadId": "18217"
+  },
+  {
+    "effectiveDate": "2026-11-14",
+    "product": "Motor Spirit (Petrol)",
+    "pricePkr": 330.0,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "18254"
+  },
+  {
+    "effectiveDate": "2026-11-14",
+    "product": "Superior Kerosene Oil (SKO)",
+    "pricePkr": 283.64,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "18256"
   }
 ]
