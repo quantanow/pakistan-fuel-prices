@@ -3534,5 +3534,13 @@
     "unit": "litre",
     "source": "ogra",
     "downloadId": "18305"
+  },
+  {
+    "effectiveDate": "2026-11-18",
+    "product": "Motor Spirit (Petrol)",
+    "pricePkr": 325.0,
+    "unit": "litre",
+    "source": "ogra",
+    "downloadId": "18342"
   }
 ]
