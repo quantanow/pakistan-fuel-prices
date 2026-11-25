@@ -10,9 +10,9 @@
     "petroleumLevy": 80.0,
     "petroleumLevyRefineryOffset": -17.45,
     "climateSupportLevy": 5.0,
-    "roundingAdjustment": 0.0,
-    "salesTax": 0.0,
-    "notifiedPrice": 318.0,
+    "roundingAdjustment": -0.15,
+    "salesTax": null,
+    "notifiedPrice": 314.0,
     "premiumUsdBbl": 34.06,
     "basis": "platts"
   },
@@ -27,14 +27,14 @@
     "petroleumLevy": 80.0,
     "petroleumLevyRefineryOffset": 0.0,
     "climateSupportLevy": 5.0,
-    "roundingAdjustment": -0.35,
-    "salesTax": 0.0,
-    "notifiedPrice": 353.0,
+    "roundingAdjustment": 0.19,
+    "salesTax": null,
+    "notifiedPrice": 348.0,
     "aramcoPremiumUsdBbl": -4.5,
     "freightAndInsuranceUsdBbl": 8.0,
-    "crackUsdBbl": 37.56,
+    "crackUsdBbl": 35.56,
     "basis": "crude-crack"
   },
-  "downloadId": "18566",
+  "downloadId": "18619",
   "sourceUrl": "https://www.ogra.org.pk/price-publications"
 }
