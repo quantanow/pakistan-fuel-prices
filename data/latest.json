@@ -1,5 +1,5 @@
 {
-  "effectiveDate": "2026-11-27",
+  "effectiveDate": "2026-11-28",
   "products": [
     {
       "product": "Superior Kerosene Oil (SKO)",
@@ -18,7 +18,7 @@
     },
     {
       "product": "Motor Spirit (Petrol)",
-      "pricePkr": 313.0,
+      "pricePkr": 312.0,
       "unit": "litre"
     }
   ]
